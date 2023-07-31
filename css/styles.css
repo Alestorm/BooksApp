@@ -4,7 +4,8 @@
     border: 1px solid gray;
     border-radius: 20px;
     margin: 50px;
-    background-color: burlywood;
+    background-color: black;
     padding: 15px;
     color: bisque;
+    font-weight: bold;
 }
